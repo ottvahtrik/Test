@@ -1,4 +1,5 @@
 üks
+LISA masteris
 kaks
 kolm
 neli
