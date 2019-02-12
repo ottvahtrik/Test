@@ -6,3 +6,4 @@ kolm
 neli
 viis kuus
 seitse
+LISA
