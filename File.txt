@@ -1,2 +1,4 @@
 üks
 kaks
+kolm
+neli
