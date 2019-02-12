@@ -2,3 +2,5 @@
 kaks
 kolm
 neli
+viis kuus
+seitse
